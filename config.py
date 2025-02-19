@@ -28,7 +28,7 @@ DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://cidkagenou0195:dQfbyNG22S
 DB_NAME = os.environ.get("DATABASE_NAME", "Kagenou")
 
 #Time in seconds for message delete, put 0 to never delete
-TIME = int(os.environ.get("TIME", "0"))
+TIME = int(os.environ.get("TIME", "10"))
 
 
 #force sub channel id, if you want enable force sub
