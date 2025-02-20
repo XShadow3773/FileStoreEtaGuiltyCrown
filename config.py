@@ -53,10 +53,10 @@ IS_VERIFY = os.environ.get("IS_VERIFY", "True")
 TUT_VID = os.environ.get("TUT_VID","https://t.me/hwdownload/3")
 
 
-HELP_TXT = "<b><blockquote>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ tᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @XShadow3773\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ᴀʟʟ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/Shadow_garden3773>sᴜʙᴀʀᴜ</a></blockquote></b>"
+HELP_TXT = "<b><blockquote>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ tᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @XShadow3773\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ᴀʟʟ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/Shadow_garden3773>ᴄɪᴅ ᴋᴀɢᴇɴᴏᴜ</a></blockquote></b>"
 
 
-ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/XShadow3773>CidKagenou</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/Shadow_Garden3773>ꜱʜᴀᴅᴏᴡ ɢᴀʀᴅᴇɴ</a>\n◈ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Shadow_Garden3773>ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ</a>\n◈ ᴍᴏᴅᴇᴅ ᴀᴘᴘꜱ : <a href=https://t.me/Shadow_Mods3773>ᴍᴏᴅᴇᴅ ᴀᴘᴘꜱ</a>\n◈ ɢᴜɪʟᴛʏ ᴄʀᴏᴡɴ : <a href=https://t.me/Guilty_Crown3773>ᴘᴀɪᴅ ᴄᴏᴜʀꜱᴇꜱ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/XShadow3773>ᴄɪᴅ ᴋᴀɢᴇɴᴏᴜ</a></blockquote></b>"
+ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/XShadow3773>ᴄɪᴅ ᴋᴀɢᴇɴᴏᴜ</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/Shadow_Garden3773>ꜱʜᴀᴅᴏᴡ ɢᴀʀᴅᴇɴ</a>\n◈ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Shadow_Garden3773>ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ</a>\n◈ ᴍᴏᴅᴇᴅ ᴀᴘᴘꜱ : <a href=https://t.me/Shadow_Mods3773>ᴍᴏᴅᴇᴅ ᴀᴘᴘꜱ</a>\n◈ ɢᴜɪʟᴛʏ ᴄʀᴏᴡɴ : <a href=https://t.me/Guilty_Crown3773>ᴘᴀɪᴅ ᴄᴏᴜʀꜱᴇꜱ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/XShadow3773>ᴄɪᴅ ᴋᴀɢᴇɴᴏᴜ</a></blockquote></b>"
 
 
 START_MSG = os.environ.get("START_MESSAGE", "<b><blockquote>ʜᴇʏ ᴛʜᴇʀᴇ {first}\n\n ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ.</blockquote></b>")
