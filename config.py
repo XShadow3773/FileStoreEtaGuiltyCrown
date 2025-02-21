@@ -50,7 +50,7 @@ SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "gplinks.com")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "8e5f09dc005bfde7412c3b08a8a73e60a5d012c6")
 VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 3600)) # Add time in seconds
 IS_VERIFY = os.environ.get("IS_VERIFY", "True")
-TUT_VID = os.environ.get("TUT_VID","https://t.me/hwdownload/3")
+TUT_VID = os.environ.get("TUT_VID","https://t.me/hw_to_open_links/2")
 
 
 HELP_TXT = "<b><blockquote>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ tᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @XShadow3773\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ᴀʟʟ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/Shadow_garden3773>ᴄɪᴅ ᴋᴀɢᴇɴᴏᴜ</a></blockquote></b>"
@@ -79,7 +79,7 @@ PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "True") == "True" el
 #Set true if you want Disable your Channel Posts Share button
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True'
 
-BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
+BOT_STATS_TEXT = "<b><blockquote>BOT UPTIME</blockquote></b>\n<b><blockquote>{uptime}</blockquote></b>"
 USER_REPLY_TEXT = "ɪᴅɪᴏᴛ! ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ᴍᴀꜱᴛᴇʀ!"
 
 ADMINS.append(OWNER_ID)
