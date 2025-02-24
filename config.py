@@ -16,7 +16,7 @@ APP_ID = int(os.environ.get("APP_ID", "25984365"))
 #Your API Hash from my.telegram.org
 API_HASH = os.environ.get("API_HASH", "f16f22343566116e2319621b07ba5013")
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002178943213"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002312465578"))
 # NAMA OWNER
 OWNER = os.environ.get("OWNER", "Kirito3009")
 #OWNER ID
@@ -24,8 +24,8 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "6673527661"))
 #Port
 PORT = os.environ.get("PORT", "8030")
 #Database
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://cidkagenou0195:dQfbyNG22SzGra99@cluster0.cd4yf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DB_NAME = os.environ.get("DATABASE_NAME", "Kagenou")
+DB_URI = os.environ.get("DATABASE_URL", "")
+DB_NAME = os.environ.get("DATABASE_NAME", "ShadowHacker")
 
 #Time in seconds for message delete, put 0 to never delete
 TIME = int(os.environ.get("TIME", "0"))
@@ -40,8 +40,8 @@ FORCE_SUB_CHANNEL4 = int(os.environ.get("FORCE_SUB_CHANNEL4", "-1002424441673"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
-START_PIC = os.environ.get("START_PIC", "https://envs.sh/25R.jpg")
-FORCE_PIC = os.environ.get("FORCE_PIC", "https://envs.sh/254.jpg")
+START_PIC = os.environ.get("START_PIC", "https://envs.sh/t40.jpeg")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://envs.sh/t4B.jpg")
 
 # Turn this feature on or off using True or False put value inside  ""
 # TRUE for yes FALSE if no 
