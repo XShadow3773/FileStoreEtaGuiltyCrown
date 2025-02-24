@@ -24,7 +24,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "6673527661"))
 #Port
 PORT = os.environ.get("PORT", "8030")
 #Database
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://shadowhacker205:XRSIY5YamrQZEyHj@cluster0.xonvh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://shadowhacker205")
 DB_NAME = os.environ.get("DATABASE_NAME", "ShadowHacker")
 
 #Time in seconds for message delete, put 0 to never delete
