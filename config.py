@@ -45,7 +45,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://envs.sh/t4B.jpg")
 
 # Turn this feature on or off using True or False put value inside  ""
 # TRUE for yes FALSE if no 
-TOKEN = True if os.environ.get('TOKEN', "True") == "True" else False 
+TOKEN = True if os.environ.get('TOKEN', "False") == "True" else False 
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "gplinks.com")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "8e5f09dc005bfde7412c3b08a8a73e60a5d012c6")
 VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 3600)) # Add time in seconds
@@ -53,13 +53,13 @@ IS_VERIFY = os.environ.get("IS_VERIFY", "True")
 TUT_VID = os.environ.get("TUT_VID","https://t.me/hw_to_open_links/2")
 
 
-HELP_TXT = "<b><blockquote>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ tᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @XShadow3773\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ᴀʟʟ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/Shadow_garden3773>ᴄɪᴅ ᴋᴀɢᴇɴᴏᴜ</a></blockquote></b>"
+HELP_TXT = "<b><blockquote>𝔱𝔥𝔦𝔰 𝔦𝔰 𝔞 𝔣𝔦𝔩𝔢 𝔰𝔱𝔬𝔯𝔢 𝔟𝔬𝔱 𝔲𝔰𝔢𝔡 𝔱𝔬 𝔰𝔥𝔞𝔯𝔢 𝔣𝔦𝔩𝔢𝔰 𝔣𝔯𝔬𝔪 𝔤𝔲𝔦𝔩𝔱𝔶𝔠𝔯𝔬𝔴𝔫\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├𝔳𝔦𝔰𝔦𝔱 @ReportAlpha_Bot 𝔦𝔣 𝔞𝔫𝔶 𝔩𝔦𝔫𝔨 𝔦𝔰 𝔟𝔯𝔬𝔨𝔢𝔫\n└ᴏᴡɴᴇʀ - @xꜱʜᴀᴅᴏᴡ3773\n\n 𝓨𝓞𝓤 𝓝𝓔𝓔𝓓 𝓣𝓞 𝓙𝓞𝓘𝓝 𝓐𝓛𝓛 𝓞𝓕 𝓞𝓤𝓡 𝓒𝓗𝓐𝓝𝓝𝓔𝓛𝓢 𝓣𝓞 𝓖𝓔𝓣 𝓨𝓞𝓤𝓡 𝓓𝓔𝓢𝓘𝓡𝓔𝓓 𝓕𝓘𝓛𝓔!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/Shadow_garden3773>ᴄɪᴅ ᴋᴀɢᴇɴᴏᴜ</a></blockquote></b>"
 
 
-ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/XShadow3773>ᴄɪᴅ ᴋᴀɢᴇɴᴏᴜ</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/Shadow_Garden3773>ꜱʜᴀᴅᴏᴡ ɢᴀʀᴅᴇɴ</a>\n◈ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Shadow_Garden3773>ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ</a>\n◈ ᴍᴏᴅᴇᴅ ᴀᴘᴘꜱ : <a href=https://t.me/Shadow_Mods3773>ᴍᴏᴅᴇᴅ ᴀᴘᴘꜱ</a>\n◈ ɢᴜɪʟᴛʏ ᴄʀᴏᴡɴ : <a href=https://t.me/Guilty_Crown3773>ᴘᴀɪᴅ ᴄᴏᴜʀꜱᴇꜱ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/XShadow3773>ᴄɪᴅ ᴋᴀɢᴇɴᴏᴜ</a></blockquote></b>"
+ABOUT_TXT = "<b><blockquote>◈ ᴍʏ ᴍᴀꜱᴛᴇʀ: <a href=https://t.me/XShadow3773>ᴄɪᴅ ᴋᴀɢᴇɴᴏᴜ</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/Shadow_Garden3773>ꜱʜᴀᴅᴏᴡ ɢᴀʀᴅᴇɴ</a>\n◈ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Shadow_Garden3773>ꜱʜᴀᴅᴏᴡ ɢᴀʀᴅᴇɴ</a>\n◈ ᴍᴏᴅᴇᴅ ᴀᴘᴘꜱ : <a href=https://t.me/Shadow_Mods3773>ᴍᴏᴅᴇᴅ ᴀᴘᴘꜱ</a>\n◈ ɢᴜɪʟᴛʏ ᴄʀᴏᴡɴ : <a href=https://t.me/Guilty_Crown3773>ᴘᴀɪᴅ ᴄᴏᴜʀꜱᴇꜱ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/XShadow3773>ᴄɪᴅ ᴋᴀɢᴇɴᴏᴜ</a></blockquote></b>"
 
 
-START_MSG = os.environ.get("START_MESSAGE", "<b><blockquote>ʜᴇʏ ᴛʜᴇʀᴇ {first}\n\n ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ.</blockquote></b>")
+START_MSG = os.environ.get("START_MESSAGE", "<b><blockquote>ʜᴇʏ ᴛʜᴇʀᴇ {first}\n\n ɪ ᴀᴍ ᴀ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ, ᴜꜱᴇᴅ ʙʏ ᴄɪᴅ ᴋᴀɢᴇɴᴏᴜ ᴛᴏ ꜱʜᴀʀᴇ ꜰɪʟᴇ'ꜱ ꜰʀᴏᴍ ɢᴜɪʟᴛʏ ᴄʀᴏᴡɴ.</blockquote></b>")
 try:
     ADMINS=[6376328008]
     for x in (os.environ.get("ADMINS", "5779295913").split()):
@@ -68,10 +68,10 @@ except ValueError:
         raise Exception("Your Admins list does not contain valid integers.")
 
 #Force sub message 
-FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "ʜᴇʟʟᴏ {first}\n\n<b>ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ʀᴇʟᴏᴀᴅ button ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛᴇᴅ ꜰɪʟᴇ.</b>")
+FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "ʜᴇʟʟᴏ {first}\n\n<b>ɪᴅɪᴏᴛ! ꜰɪʀꜱᴛ ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ᴊᴏɪɴ ᴀʟʟ ᴏꜰ ᴍʏ ᴍᴀꜱᴛᴇʀ ᴄʜᴀɴɴᴇʟꜱ ʙᴇꜰᴏʀᴇ ʀᴇQᴜᴇꜱᴛɪɴɢ ꜰɪʟᴇꜱ.</b>")
 
 #set your Custom Caption here, Keep None for Disable Custom Caption
-CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", "<b>• ʙʏ @XShadow3773</b>")
+CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", "<b></b>")
 
 #set True if you want to prevent users from forwarding files from bot
 PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "True") == "True" else False
