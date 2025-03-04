@@ -1,6 +1,4 @@
-# Don't Remove Credit @CodeFlix_Bots, @rohit_1888
-# Ask Doubt on telegram @CodeflixSupport
-
+#Telegram - @XShadow3773
 
 import os
 from os import environ,getenv
@@ -17,7 +15,7 @@ APP_ID = int(os.environ.get("APP_ID", "25984365"))
 API_HASH = os.environ.get("API_HASH", "f16f22343566116e2319621b07ba5013")
 #Your db channel Id
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002312465578"))
-# NAMA OWNER
+# NAME OWNER
 OWNER = os.environ.get("OWNER", "Kirito3009")
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "6673527661"))
