@@ -6,7 +6,6 @@ from pyrogram import Client
 from pyrogram.enums import ParseMode
 import sys
 from datetime import datetime
-#rohit_1888 on Tg
 from config import *
 
 
@@ -139,4 +138,4 @@ class Bot(Client):
         finally:
             loop.run_until_complete(self.stop())
 
-     #@rohit_1888 on Tg
+#@XShadow3773
